@@ -1,214 +1,132 @@
 
 🍀广东频道,#genre#
 
-广东大湾区,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3fIDYi&tk=S76R7FkCUUdk
-广东民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pvFMcg&tk=S76R7FkCUUdk
-广东少儿,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5VTagB&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uTCG9s&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CFK7KW&tk=S76R7FkCUUdk
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MerNSl&tk=S76R7FkCUUdk
-广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eq8WqU&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VnFk5A&tk=S76R7FkCUUdk
-广东经济,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B4ycYF&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qq5AmE&tk=S76R7FkCUUdk
-汕头经济,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qSOCGE&tk=S76R7FkCUUdk
-揭阳综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PxgSAx&tk=S76R7FkCUUdk
-揭阳生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fXX2M0&tk=S76R7FkCUUdk
-深圳都市,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XIXV7m&tk=S76R7FkCUUdk
-广州综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EDTVB9&tk=S76R7FkCUUdk
-广州新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VOzbpm&tk=S76R7FkCUUdk
-广州影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IigMdO&tk=S76R7FkCUUdk
-广州法治,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P6AhuB&tk=S76R7FkCUUdk
-广州南国都市,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RlwhFm&tk=S76R7FkCUUdk
+广州综合广州,http://tvtj1.jxwltx.com:8003/live3044.m3u8
+广州新闻广州,http://tvtj1.jxwltx.com:8003/live2958.m3u8
+广东珠江广州,http://tvtj1.jxwltx.com:8003/live2897.m3u8
+广东新闻广州,http://tvtj1.jxwltx.com:8003/live2825.m3u8
+广东民生广州,http://tvtj1.jxwltx.com:8003/dfws.m3u8
+广东体育广州,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+广东影视广州,http://tvtj1.jxwltx.com:8003/live1762.m3u8
+广东湾区广州,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+广东经济广州,http://tvtj1.jxwltx.com:8003/live3001.m3u8
+广东现代广州,http://tvtj1.jxwltx.com:8003/live3087.m3u8
+广东少儿广州,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+嘉佳卡通广州,http://tvtj1.jxwltx.com:8003/live1328.m3u8
+优漫卡通广州,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+广东卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.1.19:5146
+广东卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.1.152:5146
+广东卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.0.84:5146
+广东卫视超清,http://unraid.cyruslee.top:8888/udp/239.77.0.166:5146
+广东珠江高清,http://unraid.cyruslee.top:8888/udp/239.77.0.1:5146
+广东珠江超清,http://unraid.cyruslee.top:8888/udp/239.77.0.114:5146
+广东新闻高清,http://unraid.cyruslee.top:8888/udp/239.77.0.173:5146
+广东民生高清,http://unraid.cyruslee.top:8888/udp/239.77.0.225:5146
+广东体育高清测试,http://unraid.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育超清,http://unraid.cyruslee.top:8888/udp/239.77.0.168:5146
+经济科教高清,http://unraid.cyruslee.top:8888/udp/239.77.0.85:5146
+经济科教超清,http://unraid.cyruslee.top:8888/udp/239.77.0.167:5146
+大湾区卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.0.215:5146
+广东影视高清,http://unraid.cyruslee.top:8888/udp/239.77.0.217:5146
+广东少儿高清,http://unraid.cyruslee.top:8888/udp/239.77.0.250:5146
+嘉佳卡通高清,http://unraid.cyruslee.top:8888/udp/239.77.0.179:5146
+岭南戏曲,http://unraid.cyruslee.top:8888/udp/239.77.0.16:5146
+广东房产,http://unraid.cyruslee.top:8888/udp/239.77.0.14:5146
+现代教育,http://unraid.cyruslee.top:8888/udp/239.77.0.18:5146
+广东移动,http://unraid.cyruslee.top:8888/udp/239.77.0.20:5146
+广东综艺,http://unraid.cyruslee.top:8888/udp/239.77.1.236:5146
+广东综艺,http://unraid.cyruslee.top:8888/udp/239.77.1.237:5146
+广东综艺(4k),http://unraid.cyruslee.top:8888/udp/239.77.0.244:5146
+广东综艺,http://unraid.cyruslee.top:8888/udp/239.77.0.246:5146
+广东综艺(4k),http://unraid.cyruslee.top:8888/udp/239.77.0.245:5146
+广东综艺,http://unraid.cyruslee.top:8888/udp/239.77.0.252:5146
+广州综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.71:5146
+广州新闻高清,http://unraid.cyruslee.top:8888/udp/239.253.43.72:5146
+广州影视高清,http://unraid.cyruslee.top:8888/udp/239.253.43.73:5146
+广州法治高清,http://unraid.cyruslee.top:8888/udp/239.253.43.74:5146
+广州竞赛高清,http://unraid.cyruslee.top:8888/udp/239.253.43.75:5146
+南国都市,http://unraid.cyruslee.top:8888/udp/239.253.43.99:5146
+深圳卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.1.3:5146
+深圳卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.1.148:5146
+深圳卫视高清,http://unraid.cyruslee.top:8888/udp/239.77.0.92:5146
+深圳卫视超清,http://unraid.cyruslee.top:8888/udp/239.77.0.130:5146
+深圳都市频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.176:5146
+深圳都市频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.124:5146
+深圳电视剧频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.177:5146
+深圳电视剧频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.125:5146
+深圳财经生活高清,http://unraid.cyruslee.top:8888/udp/239.77.1.242:5146
+深圳娱乐频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.243:5146
+深圳体育健康高清,http://unraid.cyruslee.top:8888/udp/239.77.1.128:5146
+深圳体育健康高清,http://unraid.cyruslee.top:8888/udp/239.77.1.140:5146
+深圳少儿频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.244:5146
+深圳公共频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.178:5146
+深圳公共频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.126:5146
+深圳宝安频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.67:5146
+深圳龙岗频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.223:5146
+深圳东部频道高清,http://unraid.cyruslee.top:8888/udp/239.77.1.224:5146
+深圳众创TV高清,http://unraid.cyruslee.top:8888/udp/239.77.1.247:5146
+深圳移动电视,http://unraid.cyruslee.top:8888/udp/239.77.1.175:5146
+深圳宜和购物高清,http://unraid.cyruslee.top:8888/udp/239.77.1.87:5146
+韶关新闻综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.117:5146
+韶关绿色生活高清,http://unraid.cyruslee.top:8888/udp/239.77.0.119:5146
+湛江新闻综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.141:5146
+湛江公共高清,http://unraid.cyruslee.top:8888/udp/239.77.0.140:5146
+揭阳综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.229:5146
+揭阳生活高清,http://unraid.cyruslee.top:8888/udp/239.77.0.251:5146
+汕尾新闻综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.25:5146
+汕尾文化生活高清,http://unraid.cyruslee.top:8888/udp/239.77.0.187:5146
+江门综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.201:5146
+江门侨乡生活高清,http://unraid.cyruslee.top:8888/udp/239.77.0.202:5146
+江门教育高清,http://unraid.cyruslee.top:8888/udp/239.77.0.203:5146
+HZTV-1高清,http://unraid.cyruslee.top:8888/udp/239.77.1.232:5146
+HZTV-2高清,http://unraid.cyruslee.top:8888/udp/239.77.1.233:5146
+珠海-1高清,http://unraid.cyruslee.top:8888/udp/239.77.0.155:5146
+珠海-2高清,http://unraid.cyruslee.top:8888/udp/239.77.0.154:5146
+肇庆综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.1:5146
+肇庆生活服务高清,http://unraid.cyruslee.top:8888/udp/239.253.43.2:5146
+河源综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.213:5146
+河源公共高清,http://unraid.cyruslee.top:8888/udp/239.253.43.214:5146
+清远新闻综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.33:5146
+清远文旅生活高清,http://unraid.cyruslee.top:8888/udp/239.253.43.34:5146
+云浮综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.253:5146
+云浮文旅高清,http://unraid.cyruslee.top:8888/udp/239.77.0.254:5146
+茂名综合高清,http://unraid.cyruslee.top:8888/udp/239.77.0.206:5146
+茂名公共高清,http://unraid.cyruslee.top:8888/udp/239.77.0.207:5146
+汕头综合高清,http://unraid.cyruslee.top:8888/udp/239.77.1.130:5146
+汕头综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.45:5146
+汕头经济生活高清,http://unraid.cyruslee.top:8888/udp/239.77.1.131:5146
+汕头经济生活高清,http://unraid.cyruslee.top:8888/udp/239.253.43.46:5146
+汕头文旅体育高清,http://unraid.cyruslee.top:8888/udp/239.77.1.132:5146
+汕头文旅体育高清,http://unraid.cyruslee.top:8888/udp/239.253.43.47:5146
+佛山公共高清,http://unraid.cyruslee.top:8888/udp/239.253.43.53:5146
+佛山南海高清,http://unraid.cyruslee.top:8888/udp/239.253.43.54:5146
+佛山顺德高清,http://unraid.cyruslee.top:8888/udp/239.253.43.55:5146
+佛山影视高清,http://unraid.cyruslee.top:8888/udp/239.253.43.56:5146
+佛山综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.57:5146
+东莞新闻综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.104:5146
+东莞生活资讯高清,http://unraid.cyruslee.top:8888/udp/239.253.43.105:5146
+中山综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.62:5146
+香山文化高清,http://unraid.cyruslee.top:8888/udp/239.253.43.63:5146
+中山教育高清,http://unraid.cyruslee.top:8888/udp/239.253.43.64:5146
+徐闻综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.112:5146
+CCTV-01广州,http://tvtj.jxwltx.com:8003/cctv1.m3u8
+CCTV-02广州,http://tvtj.jxwltx.com:8003/cctv2.m3u8
+CCTV-03广州,http://tvtj.jxwltx.com:8003/cctv3.m3u8
+CCTV-04广州,http://tvtj.jxwltx.com:8003/cctv4.m3u8
+CCTV-05广州,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
+CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
+CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
+CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
+CCTV-10广州,http://tvtj.jxwltx.com:8003/cctv10.m3u8
+CCTV-11广州,http://tvtj.jxwltx.com:8003/cctv11.m3u8
+CCTV-12广州,http://tvtj.jxwltx.com:8003/cctv12.m3u8
+CCTV-13广州,http://tvtj.jxwltx.com:8003/cctv13.m3u8
+CCTV-14广州,http://tvtj.jxwltx.com:8003/cctv14.m3u8
+CCTV-15广州,http://tvtj.jxwltx.com:8003/cctv15.m3u8
+CCTV-16广州,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hiVl2R&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kB1yiJ&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MOvSUN&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eyjDSz&tk=S76R7FkCUUdk
-大湾区卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E0HoMx&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8KLrla&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NeHRLW&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lsLudw&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mu6sTu&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OEI3LK&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mBAWXM&tk=S76R7FkCUUdk
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=b34YA8&tk=S76R7FkCUUdk
-广东民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K1OsLM&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bMxYUq&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JAcmXe&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c089RG&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=31tJCI&tk=S76R7FkCUUdk
-广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=m96HNU&tk=S76R7FkCUUdk
-岭南戏曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mvWQto&tk=S76R7FkCUUdk
-现代教育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NvdpzC&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T4vpP3&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Zt7fz8&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mfxLOh&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XnE3ZR&tk=S76R7FkCUUdk
-潮州综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WGxane&tk=S76R7FkCUUdk
-潮州民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gAS9lM&tk=S76R7FkCUUdk
-揭阳综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JCC6wT&tk=S76R7FkCUUdk
-揭阳生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jK3UdG&tk=S76R7FkCUUdk
-汕尾新闻综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=odc6bB&tk=S76R7FkCUUdk
-汕尾文化生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=meBVk7&tk=S76R7FkCUUdk
-广东2区,#genre#
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wuLO4c&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2FzsLW&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8IYdSd&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p8eWGC&tk=S76R7FkCUUdk
-大湾区卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6UrAR7&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9ieKEH&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aFzo9U&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Da8S1h&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rtlhCh&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mdnHcl&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hAuZqK&tk=S76R7FkCUUdk
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pNkhX&tk=S76R7FkCUUdk
-广东民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=adaFpD&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jIa9Qs&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n5uErL&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NwoPwu&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eDTeu2&tk=S76R7FkCUUdk
-广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hZ1d3a&tk=S76R7FkCUUdk
-岭南戏曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YZgYoQ&tk=S76R7FkCUUdk
-现代教育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G6r0F2&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dgVuzr&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g9z06F&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LDwWkE&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JO9xDH&tk=S76R7FkCUUdk
-潮州综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IEU0ME&tk=S76R7FkCUUdk
-潮州民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Q8MIrG&tk=S76R7FkCUUdk
-揭阳综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UHFsTP&tk=S76R7FkCUUdk
-揭阳生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=USR8ms&tk=S76R7FkCUUdk
-汕尾新闻综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yG10ev&tk=S76R7FkCUUdk
-汕尾文化生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pOmMjQ&tk=S76R7FkCUUdk
-广东3区,#genre#
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mNqqgQ&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3Zy0by&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Dimh1f&tk=S76R7FkCUUdk
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pAhuoj&tk=S76R7FkCUUdk
-大湾区卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V26rRP&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JW71wg&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X0wqL0&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rQgqsW&tk=S76R7FkCUUdk
-深圳卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4Vtcti&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cKEXAm&tk=S76R7FkCUUdk
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Rk4VJ0&tk=S76R7FkCUUdk
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CZBWfD&tk=S76R7FkCUUdk
-广东民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2FdB05&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ek9svu&tk=S76R7FkCUUdk
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=L4HqqC&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=js6rB3&tk=S76R7FkCUUdk
-经济科教,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jpMAWq&tk=S76R7FkCUUdk
-广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QdboiA&tk=S76R7FkCUUdk
-岭南戏曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2bbXgK&tk=S76R7FkCUUdk
-现代教育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CakCTD&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7FrkJp&tk=S76R7FkCUUdk
-汕头综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=32xG8f&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=loj1zP&tk=S76R7FkCUUdk
-汕头经济生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KfN5un&tk=S76R7FkCUUdk
-潮州综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=md2W12&tk=S76R7FkCUUdk
-潮州民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5jzoMa&tk=S76R7FkCUUdk
-揭阳综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hFSXxn&tk=S76R7FkCUUdk
-揭阳生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ubnS9M&tk=S76R7FkCUUdk
-汕尾新闻综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ga6eBj&tk=S76R7FkCUUdk
-汕尾文化生活,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MgRXdk&tk=S76R7FkCUUdk
-
-广东卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.1.19:5146
-广东卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.1.152:5146
-广东卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.0.84:5146
-广东卫视超清, http://unraid.cyruslee.top:8888/udp/239.77.0.166:5146
-广东珠江高清, http://unraid.cyruslee.top:8888/udp/239.77.0.1:5146
-广东珠江超清, http://unraid.cyruslee.top:8888/udp/239.77.0.114:5146
-广东新闻高清, http://unraid.cyruslee.top:8888/udp/239.77.0.173:5146
-广东民生高清, http://unraid.cyruslee.top:8888/udp/239.77.0.225:5146
-广东体育高清测试, http://unraid.cyruslee.top:8888/udp/239.77.0.112:5146
-广东体育超清, http://unraid.cyruslee.top:8888/udp/239.77.0.168:5146
-经济科教高清, http://unraid.cyruslee.top:8888/udp/239.77.0.85:5146
-经济科教超清, http://unraid.cyruslee.top:8888/udp/239.77.0.167:5146
-大湾区卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.0.215:5146
-广东影视高清, http://unraid.cyruslee.top:8888/udp/239.77.0.217:5146
-广东少儿高清, http://unraid.cyruslee.top:8888/udp/239.77.0.250:5146
-嘉佳卡通高清, http://unraid.cyruslee.top:8888/udp/239.77.0.179:5146
-岭南戏曲, http://unraid.cyruslee.top:8888/udp/239.77.0.16:5146
-广东房产, http://unraid.cyruslee.top:8888/udp/239.77.0.14:5146
-现代教育, http://unraid.cyruslee.top:8888/udp/239.77.0.18:5146
-广东移动, http://unraid.cyruslee.top:8888/udp/239.77.0.20:5146
-广东综艺 4K50p, http://unraid.cyruslee.top:8888/udp/239.77.1.236:5146
-广东综艺 4K, http://unraid.cyruslee.top:8888/udp/239.77.1.237:5146
-广东综艺(4k), http://unraid.cyruslee.top:8888/udp/239.77.0.244:5146
-广东综艺 宽色域(4k), http://unraid.cyruslee.top:8888/udp/239.77.0.246:5146
-广东综艺(4k), http://unraid.cyruslee.top:8888/udp/239.77.0.245:5146
-广东综艺 宽色域AVS2(4k) (AVS2), http://unraid.cyruslee.top:8888/udp/239.77.0.252:5146
-广州综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.71:5146
-广州新闻高清, http://unraid.cyruslee.top:8888/udp/239.253.43.72:5146
-广州影视高清, http://unraid.cyruslee.top:8888/udp/239.253.43.73:5146
-广州法治高清, http://unraid.cyruslee.top:8888/udp/239.253.43.74:5146
-广州竞赛高清, http://unraid.cyruslee.top:8888/udp/239.253.43.75:5146
-南国都市 4K, http://unraid.cyruslee.top:8888/udp/239.253.43.99:5146
-深圳卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.1.3:5146
-深圳卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.1.148:5146
-深圳卫视高清, http://unraid.cyruslee.top:8888/udp/239.77.0.92:5146
-深圳卫视超清, http://unraid.cyruslee.top:8888/udp/239.77.0.130:5146
-深圳都市频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.176:5146
-深圳都市频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.124:5146
-深圳电视剧频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.177:5146
-深圳电视剧频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.125:5146
-深圳财经生活高清, http://unraid.cyruslee.top:8888/udp/239.77.1.242:5146
-深圳娱乐频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.243:5146
-深圳体育健康高清, http://unraid.cyruslee.top:8888/udp/239.77.1.128:5146
-深圳体育健康高清, http://unraid.cyruslee.top:8888/udp/239.77.1.140:5146
-深圳少儿频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.244:5146
-深圳公共频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.178:5146
-深圳公共频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.126:5146
-深圳宝安频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.67:5146
-深圳龙岗频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.223:5146
-深圳东部频道高清, http://unraid.cyruslee.top:8888/udp/239.77.1.224:5146
-深圳众创TV高清, http://unraid.cyruslee.top:8888/udp/239.77.1.247:5146
-深圳移动电视, http://unraid.cyruslee.top:8888/udp/239.77.1.175:5146
-深圳宜和购物高清, http://unraid.cyruslee.top:8888/udp/239.77.1.87:5146
-韶关新闻综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.117:5146
-韶关绿色生活高清, http://unraid.cyruslee.top:8888/udp/239.77.0.119:5146
-湛江新闻综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.141:5146
-湛江公共高清, http://unraid.cyruslee.top:8888/udp/239.77.0.140:5146
-揭阳综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.229:5146
-揭阳生活高清, http://unraid.cyruslee.top:8888/udp/239.77.0.251:5146
-汕尾新闻综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.25:5146
-汕尾文化生活高清, http://unraid.cyruslee.top:8888/udp/239.77.0.187:5146
-江门综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.201:5146
-江门侨乡生活高清, http://unraid.cyruslee.top:8888/udp/239.77.0.202:5146
-江门教育高清, http://unraid.cyruslee.top:8888/udp/239.77.0.203:5146
-HZTV-1高清, http://unraid.cyruslee.top:8888/udp/239.77.1.232:5146
-HZTV-2高清, http://unraid.cyruslee.top:8888/udp/239.77.1.233:5146
-珠海-1高清, http://unraid.cyruslee.top:8888/udp/239.77.0.155:5146
-珠海-2高清, http://unraid.cyruslee.top:8888/udp/239.77.0.154:5146
-肇庆综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.1:5146
-肇庆生活服务高清, http://unraid.cyruslee.top:8888/udp/239.253.43.2:5146
-河源综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.213:5146
-河源公共高清, http://unraid.cyruslee.top:8888/udp/239.253.43.214:5146
-清远新闻综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.33:5146
-清远文旅生活高清, http://unraid.cyruslee.top:8888/udp/239.253.43.34:5146
-云浮综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.253:5146
-云浮文旅高清, http://unraid.cyruslee.top:8888/udp/239.77.0.254:5146
-茂名综合高清, http://unraid.cyruslee.top:8888/udp/239.77.0.206:5146
-茂名公共高清, http://unraid.cyruslee.top:8888/udp/239.77.0.207:5146
-汕头综合高清, http://unraid.cyruslee.top:8888/udp/239.77.1.130:5146
-汕头综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.45:5146
-汕头经济生活高清, http://unraid.cyruslee.top:8888/udp/239.77.1.131:5146
-汕头经济生活高清, http://unraid.cyruslee.top:8888/udp/239.253.43.46:5146
-汕头文旅体育高清, http://unraid.cyruslee.top:8888/udp/239.77.1.132:5146
-汕头文旅体育高清, http://unraid.cyruslee.top:8888/udp/239.253.43.47:5146
-佛山公共高清, http://unraid.cyruslee.top:8888/udp/239.253.43.53:5146
-佛山南海高清, http://unraid.cyruslee.top:8888/udp/239.253.43.54:5146
-佛山顺德高清, http://unraid.cyruslee.top:8888/udp/239.253.43.55:5146
-佛山影视高清, http://unraid.cyruslee.top:8888/udp/239.253.43.56:5146
-佛山综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.57:5146
-东莞新闻综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.104:5146
-东莞生活资讯高清, http://unraid.cyruslee.top:8888/udp/239.253.43.105:5146
-中山综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.62:5146
-香山文化高清, http://unraid.cyruslee.top:8888/udp/239.253.43.63:5146
-中山教育高清, http://unraid.cyruslee.top:8888/udp/239.253.43.64:5146
-徐闻综合高清, http://unraid.cyruslee.top:8888/udp/239.253.43.112:5146
 🥥海南央卫,#genre#
 CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
 CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
