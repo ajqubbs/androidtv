@@ -1634,46 +1634,6 @@ Astrol Kplus,https://tv543.cc/Smart.php?id=Kplus
 Rock Actions,https://tv543.cc/Smart.php?id=Rockaction
 
 
-🇭🇰佛教-频道,#genre#
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视，http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-唯心,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-十方法界,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-十方法界,http://pull.cly.alivecdn.com/live/8f3d10f9811110d7769280a2f4c2d5af.m3u8
-大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-大爱1台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
-大爱2台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
-十方法界,https://pixman.mytvsuper.com.mp/Smart.php?id=badaentertain
-香港佛陀,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
-台湾|卍佛卫慈悲台,https://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
-大爱1台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
-大爱2台,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-大爱1台,https://php.946985.xyz/4gtv.php?ch=4gtv-live007
-大爱2台,https://php.946985.xyz/4gtv.php?ch=4gtv-live106
-人间卫视.https://php.946985.xyz/4gtv.php?ch=4gtv-live008
-台湾|唯心WXTV2,http://61.216.67.119:1935/wxtv/wxtv.stream/playlist.m3u8
-十方法界,http://fvla1.netboxtv.top/live/a9a5de21/fkb23jwt/index.m3u8
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
-华藏卫视,https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
-悟道法师,https://tw2.amtb.de/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
-生命电视,https://5ddce30eb4b55.streamlock.net/lifetv/lifetv.stream/playlist.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-唯心,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
-
 香港🇨🇳,#genre#
 
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
