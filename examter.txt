@@ -1,18 +1,5 @@
 
-4K节目,#genre#
-CCTV4K,http://112.19.88.97:8899/udp/239.11.0.61:5140
-CCTV16 4K,http://112.19.88.97:8899/udp/239.10.0.187:5140
-CCTV8K,http://112.19.88.97:8899/udp/239.10.0.134:5140
-北京卫视4K,http://112.19.88.97:8899/udp/239.10.0.92:5140
-深圳卫视4K,http://112.19.88.97:8899/udp/239.10.0.93:5140
-广东卫视4K,http://112.19.88.97:8899/udp/239.10.0.94:5140
-四川卫视4K,http://112.19.88.97:8899/udp/239.11.0.43:5140
-四川卫视4K,http://112.19.88.97:8899/udp/239.11.0.86:5140
-湖南卫视4K,http://112.19.88.97:8899/udp/239.11.0.87:5140
-江苏卫视4K,http://112.19.88.97:8899/udp/239.11.0.88:5140
-浙江卫视4K,http://112.19.88.97:8899/udp/239.11.0.89:5140
-东方卫视4K,http://112.19.88.97:8899/udp/239.11.0.90:5140
-山东卫视4K,http://112.19.88.97:8899/udp/239.11.0.91:5140
+
 
 卫视频道,#genre#
 重庆卫视,http://14.153.179.214:8686/rtp://239.77.1.162:5146$1920×1080
@@ -113,14 +100,7 @@ CCTV8K,http://112.19.88.97:8899/udp/239.10.0.134:5140
 卡酷少儿,http://14.153.179.214:8686/rtp://239.77.1.50:5146$720×576
 卡酷少儿,http://14.153.179.214:8686/rtp://239.77.0.79:5146$720×576
 山东教育卫视,http://14.153.179.214:8686/rtp://239.77.1.35:5146$720×576
-重庆节目,#genre#
-重庆汽摩,http://14.153.179.214:8686/rtp://239.77.1.205:5146$720×576
-重庆汽摩,http://14.153.179.214:8686/rtp://239.77.0.209:5146$720×576
-IPTV,#genre#
-睛彩竞技,http://14.153.179.214:8686/rtp://239.77.1.20:5146$1920×1080
-睛彩广场舞,http://14.153.179.214:8686/rtp://239.77.1.23:5146$1920×1080
-睛彩篮球,http://14.153.179.214:8686/rtp://239.77.1.21:5146$1920×1080
-睛彩青少,http://14.153.179.214:8686/rtp://239.77.1.22:5146$1920×1080
+
 广东频道,#genre#
 
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$订阅源
@@ -232,39 +212,28 @@ IPTV野外,http://14.153.179.214:8686/rtp://239.77.0.101:5146$1920×1080
 IPTV野外,http://14.153.179.214:8686/rtp://239.77.1.85:5146$1920×1080
 IPTV法治,http://14.153.179.214:8686/rtp://239.77.1.86:5146$1920×1080
 经典电影,http://14.153.179.214:8686/rtp://239.77.0.104:5146$1920×1080
-未分类节目,#genre#
-CCTV,http://14.153.179.214:8686/rtp://239.77.0.31:5146$720×576
-CETV2,http://14.153.179.214:8686/rtp://239.77.1.69:5146$720×576
-IPTV宣传,http://14.153.179.214:8686/rtp://239.77.1.183:5146$720×576
-IPTV宣传,http://14.153.179.214:8686/rtp://239.77.1.184:5146$720×576
-IPTV推荐1,http://14.153.179.214:8686/rtp://239.77.0.81:5146$720×576
-IPTV推荐2,http://14.153.179.214:8686/rtp://239.77.0.174:5146$720×576
-IPTV推荐3,http://14.153.179.214:8686/rtp://239.77.0.186:5146$720×576
-IPTV推荐4,http://14.153.179.214:8686/rtp://239.77.0.190:5146$720×576
-IPTV推荐5,http://14.153.179.214:8686/rtp://239.77.0.191:5146$720×576
-IPTV推荐6,http://14.153.179.214:8686/rtp://239.77.0.193:5146$720×576
-IPTV推荐7,http://14.153.179.214:8686/rtp://239.77.0.240:5146$720×576
-IPTV推荐8,http://14.153.179.214:8686/rtp://239.77.0.241:5146$720×576
-优漫卡通,http://14.153.179.214:8686/rtp://239.77.0.222:5146$720×576
-优漫卡通,http://14.153.179.214:8686/rtp://239.77.1.79:5146$720×576
-厦门卫视,http://14.153.179.214:8686/rtp://239.77.0.96:5146$720×576
-国学频道,http://14.153.179.214:8686/rtp://239.77.0.226:5146$720×576
-国学频道,http://14.153.179.214:8686/rtp://239.77.1.105:5146$720×576
-山东教育,http://14.153.179.214:8686/rtp://239.77.0.83:5146$720×576
-广东IPTV广告,http://14.153.179.214:8686/rtp://239.253.43.115:5146$720×576
-广东IPTV广告,http://14.153.179.214:8686/rtp://239.253.43.116:5146$720×576
-广东IPTV广告,http://14.153.179.214:8686/rtp://239.253.43.117:5146$720×576
-广东IPTV广告,http://14.153.179.214:8686/rtp://239.253.43.118:5146$720×576
-广东IPTV广告,http://14.153.179.214:8686/rtp://239.253.43.119:5146$720×576
-广东移动,http://14.153.179.214:8686/rtp://239.77.0.20:5146$720×576
-无信号,http://14.153.179.214:8686/rtp://239.253.43.165:5146$720×576
-无信号,http://14.153.179.214:8686/rtp://239.77.0.236:5146$720×576
-无信号,http://14.153.179.214:8686/rtp://239.77.1.139:5146$720×576
-深圳移动,http://14.153.179.214:8686/rtp://239.77.1.175:5146$720×576
+央视🍓频道,#genre#
+
+CCTV-01广州,http://tvtj.jxwltx.com:8003/cctv1.m3u8
+CCTV-02广州,http://tvtj.jxwltx.com:8003/cctv2.m3u8
+CCTV-03广州,http://tvtj.jxwltx.com:8003/cctv3.m3u8
+CCTV-04广州,http://tvtj.jxwltx.com:8003/cctv4.m3u8
+CCTV-05广州,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
+CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
+CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
+CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
+CCTV-10广州,http://tvtj.jxwltx.com:8003/cctv10.m3u8
+CCTV-11广州,http://tvtj.jxwltx.com:8003/cctv11.m3u8
+CCTV-12广州,http://tvtj.jxwltx.com:8003/cctv12.m3u8
+CCTV-13广州,http://tvtj.jxwltx.com:8003/cctv13.m3u8
+CCTV-14广州,http://tvtj.jxwltx.com:8003/cctv14.m3u8
+CCTV-15广州,http://tvtj.jxwltx.com:8003/cctv15.m3u8
+CCTV-16广州,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
+CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
 
-
-🍀广东频道,#genre#
+广东🍓频道,#genre#
 
 广州综合广州,http://tvtj1.jxwltx.com:8003/live3044.m3u8
 广州新闻广州,http://tvtj1.jxwltx.com:8003/live2958.m3u8
@@ -374,70 +343,9 @@ HZTV-2高清,http://unraid.cyruslee.top:8888/udp/239.77.1.233:5146
 香山文化高清,http://unraid.cyruslee.top:8888/udp/239.253.43.63:5146
 中山教育高清,http://unraid.cyruslee.top:8888/udp/239.253.43.64:5146
 徐闻综合高清,http://unraid.cyruslee.top:8888/udp/239.253.43.112:5146
-CCTV-01广州,http://tvtj.jxwltx.com:8003/cctv1.m3u8
-CCTV-02广州,http://tvtj.jxwltx.com:8003/cctv2.m3u8
-CCTV-03广州,http://tvtj.jxwltx.com:8003/cctv3.m3u8
-CCTV-04广州,http://tvtj.jxwltx.com:8003/cctv4.m3u8
-CCTV-05广州,http://tvtj.jxwltx.com:8003/cctv5.m3u8
-CCTV-06广州,http://tvtj.jxwltx.com:8003/cctv6.m3u8
-CCTV-07广州,http://tvtj.jxwltx.com:8003/cctv7.m3u8
-CCTV-08广州,http://tvtj.jxwltx.com:8003/cctv8.m3u8
-CCTV-09广州,http://tvtj.jxwltx.com:8003/cctv9.m3u8
-CCTV-10广州,http://tvtj.jxwltx.com:8003/cctv10.m3u8
-CCTV-11广州,http://tvtj.jxwltx.com:8003/cctv11.m3u8
-CCTV-12广州,http://tvtj.jxwltx.com:8003/cctv12.m3u8
-CCTV-13广州,http://tvtj.jxwltx.com:8003/cctv13.m3u8
-CCTV-14广州,http://tvtj.jxwltx.com:8003/cctv14.m3u8
-CCTV-15广州,http://tvtj.jxwltx.com:8003/cctv15.m3u8
-CCTV-16广州,http://tvtj.jxwltx.com:8003/cctv5p.m3u8
-CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
-🥥海南央卫,#genre#
-CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
-CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
-CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
-CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
-CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
-CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
-CCTV6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
-CCTV7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
-CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
-CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
-CCTV11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
-CCTV12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
-CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
-CCTV14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
-CCTV15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
-CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
-黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
-贵州卫视,http://111.29.9.33:6610/000000001000/1000000002000003169/index.m3u8?channel-id=bestzb&Contentid=1000000002000003169&livemode=1&stbId=3
-河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
-北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3
-东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
-天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
-重庆卫视,http://111.29.9.33:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3
-湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
-浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3
-深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
-河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
-湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3
-安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
-江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
-江西卫视,http://111.29.9.33:6610/000000001000/1000000001000013731/index.m3u8?channel-id=bestzb&Contentid=1000000001000013731&livemode=1&stbId=3
-广西卫视,http://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3
-广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
-辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3
-吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3
-云南卫视,http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
-甘肃卫视,http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
-青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
-东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
-新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
+
+
 
 
 广东卫视4K,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q6kLl9&tk=S76R7FkCUUdk
@@ -1792,9 +1700,7 @@ Rock Actions,https://tv543.cc/Smart.php?id=Rockaction
 唯心,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 
 香港🇨🇳,#genre#
-凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
-凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
-凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
+
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
@@ -1802,13 +1708,9 @@ TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 TVB无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 千禧经典,http://bxtv.3a.ink/api.php?id=qxjd
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-TVB翡翠,http://stream-ali1.csslcloud.net/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJGlm43p12oP6KkG1PhQWJK.flv
-TVB翡翠(新加坡),http://stream-ali1.csslcloud.net/live/bNUJfDlj5xtSJFSf660kDlGGlm43aNX0tUks0kHM00gDkHukNW.flv
-TVB翡翠(马来),http://stream-ali1.csslcloud.net/live/QbsxHsZLNj2ktYGlm43ZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
+
 TVB无线新闻,http://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfoGlm43gNC09xXfFvAn4GP.flv
-TVB_Plus,http://stream-ali1.csslcloud.net/live/O5YSEcBsq1SnGlm43drf2uC7Ub3lAtYhmtOhbZFhdCdSpkHMDe.flv
-TVB娱乐新闻,http://stream-ali1.csslcloud.net/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKvGlm430LemY.flv
-TVB生活,http://stream-ali1.csslcloud.net/live/1YSKKplsCJMBhMsAS37PyGlm432UCOeqYgPS0IDjve8UKxS5QS.flv
+
 
 凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 凤凰中文,http://220.169.109.72:802/udp/239.76.253.135:9000$湖南/怀化/电信
