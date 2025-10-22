@@ -122,8 +122,7 @@ IPTV,#genre#
 睛彩篮球,http://14.153.179.214:8686/rtp://239.77.1.21:5146$1920×1080
 睛彩青少,http://14.153.179.214:8686/rtp://239.77.1.22:5146$1920×1080
 广东频道,#genre#
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj$订阅源
-广东体育,http://bxtv.3a.ink/api.php?id=gdty$订阅源
+
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$订阅源
 大湾区卫视,http://t.061899.xyz/tl/dq.php?id=dwqws$订阅源
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
@@ -526,6 +525,19 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 
 🇨🇳问鼎港台,#genre#
 
+凤凰中文,https://live.saileitv.com/channel/n496e6eec/index.m3u8?q=1761146198798
+凤凰资讯,https://live.saileitv.com/channel/n4966a4fb/index.m3u8?q=1761146198798
+无限新闻,https://live.saileitv.com/channel/n3fad9608/index.m3u8?q=1761146198798
+中天新闻,https://live.saileitv.com/channel/41d8a09d/index.m3u8?q=1761146198798
+寰宇新闻,https://live.saileitv.com/channel/n43c34be8/index.m3u8?q=1761146198798
+tvbhd,https://live.saileitv.com/channel/154f9d73/index.m3u8?q=1761146198798
+tvbs新闻,https://live.saileitv.com/channel/n69ccce92/index.m3u8?q=1761146198798
+台视新闻,https://live.saileitv.com/channel/452d9d57/index.m3u8?q=1761146198798
+东森新闻,https://live.saileitv.com/channel/n88aa83/index.m3u8?q=1761146198798
+民视新闻,https://live.saileitv.com/channel/n4b747ee6/index.m3u8?q=1761146198798
+寰宇财经,https://live.saileitv.com/channel/n4332074a/index.m3u8?q=1761146198798
+好莱坞电影,https://live.saileitv.com/channel/n2db95de5/index.m3u8?q=1761146198798
+美亚电影,https://live.saileitv.com/channel/5824ef5e/index.m3u8?q=1761146198798
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
