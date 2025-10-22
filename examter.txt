@@ -433,19 +433,19 @@ HZTV-2高清,http://unraid.cyruslee.top:8888/udp/239.77.1.233:5146
 
 🇨🇳问鼎港台,#genre#
 
-凤凰中文,https://live.saileitv.com/channel/n496e6eec/index.m3u8?q=1761146198798
-凤凰资讯,https://live.saileitv.com/channel/n4966a4fb/index.m3u8?q=1761146198798
-无限新闻,https://live.saileitv.com/channel/n3fad9608/index.m3u8?q=1761146198798
-中天新闻,https://live.saileitv.com/channel/41d8a09d/index.m3u8?q=1761146198798
-寰宇新闻,https://live.saileitv.com/channel/n43c34be8/index.m3u8?q=1761146198798
-tvbhd,https://live.saileitv.com/channel/154f9d73/index.m3u8?q=1761146198798
-tvbs新闻,https://live.saileitv.com/channel/n69ccce92/index.m3u8?q=1761146198798
-台视新闻,https://live.saileitv.com/channel/452d9d57/index.m3u8?q=1761146198798
-东森新闻,https://live.saileitv.com/channel/n88aa83/index.m3u8?q=1761146198798
-民视新闻,https://live.saileitv.com/channel/n4b747ee6/index.m3u8?q=1761146198798
-寰宇财经,https://live.saileitv.com/channel/n4332074a/index.m3u8?q=1761146198798
-好莱坞电影,https://live.saileitv.com/channel/n2db95de5/index.m3u8?q=1761146198798
-美亚电影,https://live.saileitv.com/channel/5824ef5e/index.m3u8?q=1761146198798
+凤凰🍎中文,https://live.saileitv.com/channel/n496e6eec/index.m3u8?q=1761146198798
+凤凰🍎资讯,https://live.saileitv.com/channel/n4966a4fb/index.m3u8?q=1761146198798
+无限🍎新闻,https://live.saileitv.com/channel/n3fad9608/index.m3u8?q=1761146198798
+中天🍎新闻,https://live.saileitv.com/channel/41d8a09d/index.m3u8?q=1761146198798
+寰宇🍎新闻,https://live.saileitv.com/channel/n43c34be8/index.m3u8?q=1761146198798
+tv🍎bhd,https://live.saileitv.com/channel/154f9d73/index.m3u8?q=1761146198798
+tvbs🍎新闻,https://live.saileitv.com/channel/n69ccce92/index.m3u8?q=1761146198798
+台视🍎新闻,https://live.saileitv.com/channel/452d9d57/index.m3u8?q=1761146198798
+东森🍎新闻,https://live.saileitv.com/channel/n88aa83/index.m3u8?q=1761146198798
+民视🍎新闻,https://live.saileitv.com/channel/n4b747ee6/index.m3u8?q=1761146198798
+寰宇🍎财经,https://live.saileitv.com/channel/n4332074a/index.m3u8?q=1761146198798
+好莱坞🍎电影,https://live.saileitv.com/channel/n2db95de5/index.m3u8?q=1761146198798
+美亚🍎电影,https://live.saileitv.com/channel/5824ef5e/index.m3u8?q=1761146198798
 
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
