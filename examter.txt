@@ -155,7 +155,13 @@ CCTV-17广州,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
 
 广东🍓频道,#genre#
-
+广东珠江（测试）,http://m.061899.xyz/mg/gdzj
+广东新闻（测试）,http://m.061899.xyz/mg/gdxw
+广东民生（测试）,http://m.061899.xyz/mg/gdms
+广东体育（测试）,http://m.061899.xyz/mg/gdty
+CHC家庭影院,http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
+CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
+CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 广州综合广州,http://tvtj1.jxwltx.com:8003/live3044.m3u8
 广州新闻广州,http://tvtj1.jxwltx.com:8003/live2958.m3u8
 广东珠江广州,http://tvtj1.jxwltx.com:8003/live2897.m3u8
