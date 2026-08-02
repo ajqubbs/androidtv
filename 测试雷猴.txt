@@ -1,0 +1,130 @@
+CCTV-1 综合,https://live2.sailei.dpdns.org/channel/65b36335/index.m3u8?q=1785641503150&sign=2eab7d12473936a75ca4dec4d0a80e9f&ts=1785641506
+CCTV-2 财经,https://live2.sailei.dpdns.org/channel/65b5b8f5/index.m3u8?q=1785641503150&sign=ea87b040e49c43c702cb7775b9789151&ts=1785641510
+CCTV-3 综艺,https://live2.sailei.dpdns.org/channel/65b47a65/index.m3u8?q=1785641503150&sign=dbc40caf0b985669597e8dc5b79b6162&ts=1785641513
+CCTV-4 中文国际,https://live2.sailei.dpdns.org/channel/n4a5d2858/index.m3u8?q=1785641503150&sign=35daccb222e0627505f0fb4592c94248&ts=1785641516
+CCTV-5 体育,https://live2.sailei.dpdns.org/channel/65af9be4/index.m3u8?q=1785641503150&sign=2ce155193d893e961070001f11ff8faa&ts=1785641519
+CCTV-6 电影,https://live2.sailei.dpdns.org/channel/65b48560/index.m3u8?q=1785641503150&sign=4ef848a50084bc9a2453f220f8e8665e&ts=1785641522
+CCTV-7 国防军事,https://live2.sailei.dpdns.org/channel/n408755f8/index.m3u8?q=1785641503150&sign=78c32164b1ba5d66415a35a02d069d53&ts=1785641525
+CCTV-8 电视剧,https://live2.sailei.dpdns.org/channel/50fdc854/index.m3u8?q=1785641503150&sign=2231a86a23257ce504c94231a4fb5e53&ts=1785641528
+CCTV-9 记录,https://live2.sailei.dpdns.org/channel/65b89b46/index.m3u8?q=1785641503150&sign=bd581006f8bbcff9d7d1ec9687c1dc29&ts=1785641531
+CCTV-10 科教,https://live2.sailei.dpdns.org/channel/4ee90a2f/index.m3u8?q=1785641503150&sign=a6ad5c95a75f4be1cc553608712654db&ts=1785641535
+CCTV-11 戏曲,https://live2.sailei.dpdns.org/channel/4ee69fa9/index.m3u8?q=1785641549154&sign=5b5a023224655494414612e31c8cf851&ts=1785641552
+CCTV-12 社会与法,https://live2.sailei.dpdns.org/channel/3bac7728/index.m3u8?q=1785641549154&sign=ba3d06159e1f0c07f5bf65412b0330d7&ts=1785641555
+CCTV-13 新闻,https://live2.sailei.dpdns.org/channel/4ee827ef/index.m3u8?q=1785641549154&sign=8d5e3e324840374858bfbf40403493d2&ts=1785641557
+CCTV-14 少儿,https://live2.sailei.dpdns.org/channel/4ee72d51/index.m3u8?q=1785641549154&sign=c5199f6373912162e9399de3f99d6f19&ts=1785641560
+CCTV-15 音乐,https://live2.sailei.dpdns.org/channel/4eeedf1f/index.m3u8?q=1785641549154&sign=ceb722d7b7639301a3b38d76273ee0dd&ts=1785641563
+CCTV-16 奥林匹克,https://live2.sailei.dpdns.org/channel/34622605/index.m3u8?q=1785641549154&sign=035cf1496b810814b45cfa0112e2fec1&ts=1785641565
+CCTV-17 农业农村,https://live2.sailei.dpdns.org/channel/322d3cd3/index.m3u8?q=1785641549154&sign=bb06640e72d9ee9fb841b6337afb864b&ts=1785641568
+CCTV-5+ 体育赛事,https://live2.sailei.dpdns.org/channel/nef8dac1/index.m3u8?q=1785642046402&sign=e9f90e1765f6694f88fb089824b08ded&ts=1785642049
+重温经典,https://live2.sailei.dpdns.org/channel/1e1c6a0d/index.m3u8?q=1785641549154&sign=c993c022363565486ed6aa5515c9dc20&ts=1785641583
+湖南卫视,https://live2.sailei.dpdns.org/channel/5a53e58d/index.m3u8?q=1785641549154&sign=5edcc6b360fce81fa5ea2a42ab26d1d4&ts=1785641586
+浙江卫视,https://live2.sailei.dpdns.org/channel/5a3edab2/index.m3u8?q=1785641549154&sign=7430bf3f58702e679cd54719f1ce496b&ts=1785641589
+江苏卫视,https://live2.sailei.dpdns.org/channel/5a21705c/index.m3u8?q=1785641549154&sign=2bb215cf977bbc8d46c1e296a4eaa7c6&ts=1785641591
+东方卫视,https://live2.sailei.dpdns.org/channel/4bf2a9e9/index.m3u8?q=1785641549154&sign=561c2e5da24f40f70b776783cc67f3b6&ts=1785641594
+北京卫视,https://live2.sailei.dpdns.org/channel/4ddfb741/index.m3u8?q=1785641549154&sign=013127ddaa49f303f9412ed8c6f2f04f&ts=1785641597
+深圳卫视,https://live2.sailei.dpdns.org/channel/5a3478ee/index.m3u8?q=1785641549154&sign=83b6a90a0fbbf1cb89100d3de82a581d&ts=1785641599
+广东卫视,https://live2.sailei.dpdns.org/channel/530cf649/index.m3u8?q=1785641549154&sign=6ca786c513aff420fe178373e24929e6&ts=1785641602
+东南卫视,https://live2.sailei.dpdns.org/channel/4bada807/index.m3u8?q=1785641549154&sign=06e39543e4741eee7b4f75e771f84e42&ts=1785641605
+广西卫视,https://live2.sailei.dpdns.org/channel/53ebe4ec/index.m3u8?q=1785641549154&sign=d0d9565ade376ae750049b5d3663294b&ts=1785641607
+湖北卫视,https://live2.sailei.dpdns.org/channel/5a52f54d/index.m3u8?q=1785641549154&sign=6583be9351c9659e631f38289e99d9b2&ts=1785641610
+四川卫视,https://live2.sailei.dpdns.org/channel/4fcef3ee/index.m3u8?q=1785641549154&sign=7fd093a79eb0a99b76b771d15c936221&ts=1785641612
+CGTN,https://live2.sailei.dpdns.org/channel/2708082f/index.m3u8?q=1785641549154&sign=a355d2c192decd21bb9cf9e96415cae5&ts=1785641615
+大湾区卫视,https://live2.sailei.dpdns.org/channel/684d0497/index.m3u8?q=1785642046402&sign=3bf4288715379c7bb183489be9fdfdf2&ts=1785642050
+广东珠江,https://live2.sailei.dpdns.org/channel/n6e47401d/index.m3u8?q=1785641549154&sign=a82fdc3463c875620aea07ae5835ede8&ts=1785641631
+广东体育,https://live2.sailei.dpdns.org/channel/n2afd3461/index.m3u8?q=1785641549154&sign=68ca8b8b69ac56b55690ec24ed310d5f&ts=1785641634
+广东体育广电,https://live2.sailei.dpdns.org/channel/7df79575/index.m3u8?q=1785641549154&sign=a4183d46a646ebbd5d677d7460a4b2b3&ts=1785641636
+广东影视,https://live2.sailei.dpdns.org/channel/n2afb37ab/index.m3u8?q=1785641549154&sign=396a9cf76bd9f1425d10cf16a4d19e0d&ts=1785641639
+汕头综合,https://live2.sailei.dpdns.org/channel/n2483dc12/index.m3u8?q=1785642046402&sign=ecf6117ec4ecea0f8527160adc0a589d&ts=1785642051
+汕头经济,https://live2.sailei.dpdns.org/channel/7e5a2477/index.m3u8?q=1785641549154&sign=d87e23cfa6154e9eef5fe5d3122b9d06&ts=1785641655
+潮州民生,https://live2.sailei.dpdns.org/channel/n230c08ff/index.m3u8?q=1785641549154&sign=9f68aa6bfb9bda4663d6f9a681c8cb5c&ts=1785641658
+潮州综合,https://live2.sailei.dpdns.org/channel/n2309dfa1/index.m3u8?q=1785641549154&sign=a3c28eeb55317ab619e780a8e8e72f7d&ts=1785641660
+凤凰中文,https://live2.sailei.dpdns.org/channel/n496e6eec/index.m3u8?q=1785641674085&sign=6cb959fcc65a9a6233b21c9b24c73186&ts=1785641677
+凤凰资讯,https://live2.sailei.dpdns.org/channel/n4966a4fb/index.m3u8?q=1785641674085&sign=466b74cad6c8e00bdbe55d51154d3db3&ts=1785641679
+凤凰香港,https://live2.sailei.dpdns.org/channel/n49654430/index.m3u8?q=1785641674085&sign=b8ed1a40b42c417307b4cb7c20a2d1bd&ts=1785641682
+翡翠台,https://live2.sailei.dpdns.org/channel/n7549189d/index.m3u8?q=1785641674085&sign=3d0a84de266075c11c67e679ca0d5ffe&ts=1785641684
+翡翠台,https://live2.sailei.dpdns.org/channel/n7549189d/index.m3u8?q=1785641674085&sign=6104be027651b11c8658e1706711fcf8&ts=1785641687
+明珠台,https://live2.sailei.dpdns.org/channel/n75ab7db0/index.m3u8?q=1785641674085&sign=d6af6e68d5978b7c61d920a1e5b2c109&ts=1785641689
+无线新闻,https://live2.sailei.dpdns.org/channel/n3fad9608/index.m3u8?q=1785641674085&sign=5af1752c78aa1bce4ec196070c34b088&ts=1785641692
+now新闻,https://live2.sailei.dpdns.org/channel/n58d2e929/index.m3u8?q=1785641674085&sign=fc62c13aa9ca2cd0aa010ee30a62ca2b&ts=1785641695
+TVBPLUS,https://live2.sailei.dpdns.org/channel/6429ae4c/index.m3u8?q=1785641674085&sign=5c036a3f586efc5fcbbe63deca6721af&ts=1785641697
+ViuTV,https://live2.sailei.dpdns.org/channel/78204936/index.m3u8?q=1785641674085&sign=2a5cb0609fee82154a04358bed4612ad&ts=1785641700
+ViuTV 6,https://live2.sailei.dpdns.org/channel/necd2834/index.m3u8?q=1785641674085&sign=65918ffed4b40a75ac7cff7febef2eea&ts=1785641702
+HOY78,https://live2.sailei.dpdns.org/channel/f91f24d/index.m3u8?q=1785641674085&sign=d857fbcbb076e0291fbac73078fac0a7&ts=1785641705
+HOY77,https://live2.sailei.dpdns.org/channel/f91f24c/index.m3u8?q=1785642046402&sign=1163a84d0ade11ed59c94864338bb83f&ts=1785642052
+中天新闻,https://live2.sailei.dpdns.org/channel/41d8a09d/index.m3u8?q=1785641674085&sign=b0aad80c2c97d349fc5bffd848bfabfd&ts=1785641721
+寰宇新闻台,https://live2.sailei.dpdns.org/channel/n43c34be8/index.m3u8?q=1785641674085&sign=1a8e8733b840a6e138698eb8b92ee6ca&ts=1785641723
+东森新闻台,https://live2.sailei.dpdns.org/channel/n88aa83/index.m3u8?q=1785641674085&sign=7812cc5469f5957a8fb1f8ab05b43ba2&ts=1785641726
+东森电影台,https://live2.sailei.dpdns.org/channel/n5502f4/index.m3u8?q=1785641674085&sign=e8146b0e147159ed1c022d4cb9524a22&ts=1785641728
+东森洋片台,https://live2.sailei.dpdns.org/channel/n7160b4/index.m3u8?q=1785642046402&sign=da9498fa569cb5565b821280cba4f8e1&ts=1785642066
+东森幼幼台,https://live2.sailei.dpdns.org/channel/naa6d18/index.m3u8?q=1785641674085&sign=dbe087639d1009b232516840dd83c884&ts=1785641743
+TVBS HD,https://live2.sailei.dpdns.org/channel/154f9d73/index.m3u8?q=1785641674085&sign=1d7acf1b1a068ac156cb6e79b28efd17&ts=1785641746
+TVBS 新闻台,https://live2.sailei.dpdns.org/channel/n69ccce92/index.m3u8?q=1785641674085&sign=87c2ca873458114dd934b674722e291b&ts=1785641748
+纬来体育,https://live2.sailei.dpdns.org/channel/5816d06e/index.m3u8?q=1785641674085&sign=4541c9c86d41eeb0389f8609150b1d27&ts=1785641751
+纬来电影,https://live2.sailei.dpdns.org/channel/581b458b/index.m3u8?q=1785641674085&sign=e011e0dbc5d34ee96b1cc6d206fb1790&ts=1785641753
+龙华戏剧,https://live2.sailei.dpdns.org/channel/66c51883/index.m3u8?q=1785641674085&sign=7ddf5b6489559a2e8b19a440460254bd&ts=1785641756
+龙华偶像,https://live2.sailei.dpdns.org/channel/66c2f564/index.m3u8?q=1785642046402&sign=b1d35a71d4bbeb4a3fa4a0965fc05388&ts=1785642068
+龙华电影,https://live2.sailei.dpdns.org/channel/66c77727/index.m3u8?q=1785641674085&sign=4c54962934baed10cec4b49a019dc328&ts=1785641772
+龙华洋片,https://live2.sailei.dpdns.org/channel/66c68ce7/index.m3u8?q=1785641674085&sign=dfd2ff729c5aa2d48a38e033aa3d3c74&ts=1785641774
+龙华经典,https://live2.sailei.dpdns.org/channel/66c892d4/index.m3u8?q=1785641674085&sign=118f48a4b0d76b6d67bc190b54ac5d17&ts=1785641776
+好萊塢電影台,https://live2.sailei.dpdns.org/channel/n2db95de5/index.m3u8?q=1785641674085&sign=48c4475dacffe7fe70629109346db7d0&ts=1785641779
+美亚电影,https://live2.sailei.dpdns.org/channel/5824ef5e/index.m3u8?q=1785642046402&sign=67a7525621dda449f4407aba15bf29f0&ts=1785642069
+中天新聞台,https://live2.sailei.dpdns.org/channel/n3ee59a96/index.m3u8?q=1785641674085&sign=f26576d35795a54fd88b03b45044a245&ts=1785641795
+寰宇新聞台,https://live2.sailei.dpdns.org/channel/n7be4ad71/index.m3u8?q=1785641674085&sign=7a0304a43387ad07501b03ec67079e7c&ts=1785641797
+東森新聞台,https://live2.sailei.dpdns.org/channel/2c4f5ac9/index.m3u8?q=1785641674085&sign=5a070e423b8d04cf86a61a79c53fe7ee&ts=1785641800
+TVBS新聞,https://live2.sailei.dpdns.org/channel/7713a03d/index.m3u8?q=1785641674085&sign=0179a2dadc2d4ebd2d61cde8e0c84988&ts=1785641802
+TVBS,https://live2.sailei.dpdns.org/channel/n5bc98b1/index.m3u8?q=1785641674085&sign=534d1cc84f244625bffe021f2bc726db&ts=1785641805
+民視第一台,https://live2.sailei.dpdns.org/channel/nc56ba28/index.m3u8?q=1785641816606&sign=e414a67a201145b9eacc29f1d33025f4&ts=1785641820
+民視台灣台,https://live2.sailei.dpdns.org/channel/nce5d867/index.m3u8?q=1785641816606&sign=4be6c93128ce1b20a9ac502e3791c3eb&ts=1785641822
+民視,https://live2.sailei.dpdns.org/channel/n7222a63c/index.m3u8?q=1785641816606&sign=812c07f6c9cf85b6ebafebefb0cf603b&ts=1785641824
+大愛電視,https://live2.sailei.dpdns.org/channel/n7d3037d2/index.m3u8?q=1785641816606&sign=269abf90114ec53c0ecfaaec9b0db7c4&ts=1785641827
+中視,https://live2.sailei.dpdns.org/channel/n722644d8/index.m3u8?q=1785642046402&sign=0d2893bd2f9613dab7be10e617f9ca39&ts=1785642070
+華視,https://live2.sailei.dpdns.org/channel/n721fc25a/index.m3u8?q=1785641816606&sign=d99f407164c929760bcb8329e470e244&ts=1785641843
+三立綜合台,https://live2.sailei.dpdns.org/channel/45c7d3e3/index.m3u8?q=1785641816606&sign=cfe9e21a0530dae8dbacc224485f9f16&ts=1785641845
+客家電視台,https://live2.sailei.dpdns.org/channel/n855e5fe/index.m3u8?q=1785641816606&sign=a9f0dbbf0526d0fc5dedd1bf31fb1a00&ts=1785641848
+八大綜藝台,https://live2.sailei.dpdns.org/channel/662e9334/index.m3u8?q=1785641816606&sign=d73da277f4dbb526b34199959a407699&ts=1785641851
+TVBS精采台,https://live2.sailei.dpdns.org/channel/49d50255/index.m3u8?q=1785641816606&sign=afbff6d49a3ca9a7778b979eae7a60cd&ts=1785641854
+靖天綜合台,https://live2.sailei.dpdns.org/channel/3f6ecb92/index.m3u8?q=1785641816606&sign=9e67292f82ea13742a02cd04355698e5&ts=1785641856
+靖天日本台,https://live2.sailei.dpdns.org/channel/3f1816f7/index.m3u8?q=1785641816606&sign=252458ef66c21cac9b553223c82a2bef&ts=1785641860
+原住民族電視台,https://live2.sailei.dpdns.org/channel/4f20dc68/index.m3u8?q=1785641816606&sign=e2768ca54511e6095a0668bc47a9f6db&ts=1785641862
+LiveABC互動英語頻道,https://live2.sailei.dpdns.org/channel/2a571abf/index.m3u8?q=1785641816606&sign=13c1733dc3d969354c9af5810528a907&ts=1785641865
+達文西頻道,https://live2.sailei.dpdns.org/channel/n1d7d9ddb/index.m3u8?q=1785642046402&sign=c757c182a68d1c3969ddab5df1e54f4f&ts=1785642084
+Nick Jr. 兒童頻道,https://live2.sailei.dpdns.org/channel/23ac0723/index.m3u8?q=1785641816606&sign=656686cb4bcdcf09baedf0a9c8db0fb0&ts=1785641881
+尼克兒童頻道,https://live2.sailei.dpdns.org/channel/51bbda39/index.m3u8?q=1785641816606&sign=6e9544af97bf1c90e5fade21090c21eb&ts=1785641884
+DreamWorks 夢工廠動畫,https://live2.sailei.dpdns.org/channel/n451655ef/index.m3u8?q=1785641816606&sign=36731ec52e136f9800cad8c3a63a5c5e&ts=1785641886
+靖天卡通台,https://live2.sailei.dpdns.org/channel/3ed78a45/index.m3u8?q=1785641816606&sign=68adae821665a9662e971db9ef915c5b&ts=1785641889
+靖洋卡通Nice Bingo,https://live2.sailei.dpdns.org/channel/n15c65427/index.m3u8?q=1785641816606&sign=c372c4079bba1864bfbbcc2ae5fb31dd&ts=1785641892
+MOMO親子台,https://live2.sailei.dpdns.org/channel/n33a56e39/index.m3u8?q=1785641816606&sign=cbd7ee9641c514ee52a5e63e20a64799&ts=1785641895
+鏡電視新聞台,https://live2.sailei.dpdns.org/channel/351c8485/index.m3u8?q=1785641816606&sign=83ba8526c122e5c023e205427a354135&ts=1785641898
+華視新聞,https://live2.sailei.dpdns.org/channel/n692bc32c/index.m3u8?q=1785641816606&sign=efa1c16f0ff45fa664e9f8fdabe98faa&ts=1785641900
+民視新聞台,https://live2.sailei.dpdns.org/channel/nca14742/index.m3u8?q=1785641816606&sign=446b7c70d60b465ca633d8561118a039&ts=1785641902
+三立新聞iNEWS,https://live2.sailei.dpdns.org/channel/4fa717ad/index.m3u8?q=1785642046402&sign=796d56977db19c2e1ef58d77f81333be&ts=1785642085
+東森財經新聞台,https://live2.sailei.dpdns.org/channel/57ce2e74/index.m3u8?q=1785641816606&sign=5e0a9c91a5e536ed42071e7e43e98d11&ts=1785641919
+中視新聞,https://live2.sailei.dpdns.org/channel/7e6461d6/index.m3u8?q=1785641816606&sign=07c716212e7a710373a4945466e3f4ba&ts=1785641922
+寰宇新聞台灣台,https://live2.sailei.dpdns.org/channel/n37458587/index.m3u8?q=1785641816606&sign=ec69c2d42e7c1c51aff12dbc0528c5a6&ts=1785641925
+TVBS,https://live2.sailei.dpdns.org/channel/58f128b2/index.m3u8?q=1785641816606&sign=d1f9e4537c4d41a55fcc6e171820e2d7&ts=1785641927
+民視綜藝台,https://live2.sailei.dpdns.org/channel/nc46cff5/index.m3u8?q=1785641816606&sign=2da022e98d2ad133dd3e3e353bf8dfc3&ts=1785641931
+豬哥亮歌廳秀,https://live2.sailei.dpdns.org/channel/n4271efdd/index.m3u8?q=1785641816606&sign=b79d310af85187b73e19dedc5691474c&ts=1785641933
+靖天育樂台,https://live2.sailei.dpdns.org/channel/3f7d0a6e/index.m3u8?q=1785641816606&sign=43fed4342b455b1f2517a012b6d9ee2a&ts=1785641936
+KLT-靖天國際台,https://live2.sailei.dpdns.org/channel/n481b36ac/index.m3u8?q=1785642046402&sign=ea2daab23b5469bdeef9ed14f945025b&ts=1785642086
+Nice TV 靖天歡樂台,https://live2.sailei.dpdns.org/channel/n122ce57e/index.m3u8?q=1785641816606&sign=c59f8636d95f1e040837b8e8beeb308a&ts=1785641951
+靖天資訊台,https://live2.sailei.dpdns.org/channel/3fae463b/index.m3u8?q=1785641816606&sign=adaaa407810e4fb491c4dce226e3bd13&ts=1785641954
+TVBS歡樂台,https://live2.sailei.dpdns.org/channel/498f035d/index.m3u8?q=1785641816606&sign=9e32cf018b01f99e426fdf12ab8af0e0&ts=1785641957
+公視戲劇,https://live2.sailei.dpdns.org/channel/7fdd881e/index.m3u8?q=1785641816606&sign=97ab6302954fb4a2a77dab4bd3994d3a&ts=1785641959
+八大精彩台,https://live2.sailei.dpdns.org/channel/6626a9ca/index.m3u8?q=1785642046402&sign=22cb5d4e835086f77f6a2a06a4cfefde&ts=1785642087
+靖天戲劇台,https://live2.sailei.dpdns.org/channel/3f07b409/index.m3u8?q=1785641816606&sign=7cdcb0c2012caf6cce9e9b6720d658d2&ts=1785641977
+靖洋戲劇台,https://live2.sailei.dpdns.org/channel/48117ce7/index.m3u8?q=1785641816606&sign=231d7356af307ca26f9809a145e82224&ts=1785641979
+金光布袋戲,https://live2.sailei.dpdns.org/channel/n125d8ecd/index.m3u8?q=1785641816606&sign=df1d8c77c53e014c365dfe3847ed78e9&ts=1785641982
+ROCK Action,https://live2.sailei.dpdns.org/channel/n21b197ce/index.m3u8?q=1785641816606&sign=4bfa4c18e71e377d672275966f8aa201&ts=1785641984
+采昌影劇台,https://live2.sailei.dpdns.org/channel/n97ba44a/index.m3u8?q=1785641816606&sign=be08ae30ec4ac1c0e66e574d8bdb4661&ts=1785641987
+靖天映畫,https://live2.sailei.dpdns.org/channel/n610faa83/index.m3u8?q=1785641816606&sign=c82c86836756b27a0d284d41ce1ecf71&ts=1785641989
+靖天電影台,https://live2.sailei.dpdns.org/channel/3fcf6ae8/index.m3u8?q=1785641816606&sign=ad533c3239e14a8e1955130623f179c3&ts=1785641992
+影迷數位電影台,https://live2.sailei.dpdns.org/channel/n79da43c0/index.m3u8?q=1785641816606&sign=d1485cfadadeaff5bfa2a9aa060031a0&ts=1785641994
+amc電影台,https://live2.sailei.dpdns.org/channel/n4f2af9e/index.m3u8?q=1785641816606&sign=30970f64fb14cf7bfc31d525b3ddfc27&ts=1785641998
+CinemaWorld,https://live2.sailei.dpdns.org/channel/n7815b83e/index.m3u8?q=1785641816606&sign=5315ca224ee250949d9b108b59d0aedc&ts=1785642000
+大愛二台,https://live2.sailei.dpdns.org/channel/n7d3932e9/index.m3u8?q=1785641816606&sign=e5287153e4837b18a927b134635a547c&ts=1785642002
+人間衛視,https://live2.sailei.dpdns.org/channel/7ed5b6d3/index.m3u8?q=1785642046402&sign=3ab0c10106aeb5dc53286852170c4750&ts=1785642101
+TVBS綜藝台,https://live2.sailei.dpdns.org/channel/49d6d25d/index.m3u8?q=1785641816606&sign=462b50df1e1355ba9840657ea2533b67&ts=1785642019
+TVBS台劇台,https://live2.sailei.dpdns.org/channel/49342c47/index.m3u8?q=1785641816606&sign=b6a66f145c2538a0898cf704e4baa222&ts=1785642021
+經典電影台,https://live2.sailei.dpdns.org/channel/n2eb7240a/index.m3u8?q=1785641816606&sign=1e5c237cbfd2410c78c917fbecef1ca6&ts=1785642024
+經典卡通台,https://live2.sailei.dpdns.org/channel/n2faf04ad/index.m3u8?q=1785641816606&sign=43b9ba8428a43fc9b28eda695cef45b2&ts=1785642026
+精選動漫台,https://live2.sailei.dpdns.org/channel/n1ecb3c7f/index.m3u8?q=1785641816606&sign=0bd62b5e9cf09f2eff9423fb991cd4f3&ts=1785642029
